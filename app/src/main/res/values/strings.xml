@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">每日自动打卡</string>
+    <string name="login_title">登录哔哩哔哩</string>
+    <string name="disclaimer_title">免责声明</string>
+    <string name="disclaimer_body">1. 本应用是个人自用的辅助工具，不是哔哩哔哩官方产品，与哔哩哔哩及其关联公司没有任何隶属、授权或合作关系。\n\n2. 应用在你本人完成登录后，使用保存在本机的 Cookie 调用哔哩哔哩公开接口，完成每日登录、观看、分享、投币、直播签到等任务；不模拟点击、不修改客户端、不破解加密、不绕过验证码。\n\n3. 自动投币功能会消耗账号内的真实硬币（每枚 +10 经验），默认关闭，开启前请自行确认硬币余额与意愿。\n\n4. 使用本应用可能带来的账号风险（包括任务不计入、触发风控、账号异常或封禁等），由使用者自行承担；作者不对任何直接或间接损失负责。\n\n5. Cookie 仅保存在本机应用私有目录，不上传、不共享给任何第三方；卸载应用即清除。\n\n6. 请勿将本应用用于商业用途、代挂他人账号，或任何违反哔哩哔哩用户协议及相关法律法规的行为。\n\n7. 若哔哩哔哩调整接口或规则导致功能失效，作者不保证修复。\n\n点击「同意并继续」表示你已阅读、理解并接受以上全部条款。</string>
+    <string name="disclaimer_agree">同意并继续</string>
+    <string name="disclaimer_exit">不同意，退出</string>
+    <string name="disclaimer_close">关闭</string>
+    <string name="disclaimer_entry">查看《免责声明》</string>
+</resources>
